@@ -243,7 +243,7 @@
 #preparationWrap .preparationInfo li h4{margin-bottom: 3px; text-align: center; font-size: 25px; font-weight: 700; color: #fff;}
 #preparationWrap .preparationInfo li p{text-align: center; color: #fff;}
 #preparationWrap .preparationInfo li p .color02{font-weight: 500;}
-#preparationWrap .layoutBox{display: flex; align-items: flex-start; gap: 0 56px;}
+#preparationWrap .layoutBox{display: flex; justify-content: center; align-items: flex-start; gap: 0 56px;}
 #preparationWrap .imgBox{box-shadow: 13px 13px 13px rgba(0,0,0,.5);}
 #preparationWrap .imgBox img{display: block;}
 
